@@ -7,34 +7,36 @@ This website books slot for you at medical shops and ensures that a small amount
 `run homePage.html`
 
 # Code Structure
-##Api USed
+## Api USed
 `https://my-json-server.typicode.com/pradhuman1/SafeMedData/data`
 method GET
 native fetch api used
 
 
-##script.js
+## script.js
 
-Function Definations : 
-1)ShowStores : input parameter -> city name[type string]
+### Function Definations : 
+
+* `ShowStores` : input parameter -> city name[type string]
 
 This function does the following 
 
 -Matches city name in the fetched data, if available then it prints all cards,if not available then it shows "Service not available".
 -Validates api data.
 
-2)removeOldData : 
+ * removeOldData : 
 This function removes all the previous cards on the website.
 
-3)ShowBooking : input parameter -> time
+* `ShowBooking` : input parameter -> time
 This Function generates a unique customer id and Confirmes the booking.
 
-Event Listeners : 
-1)click 
+ ### Event Listeners : 
+
+* click 
 Attached on body , captures events by bubbling macanism.
 Also validates correct time slot.
 
-2)keyup
+* keyup
 Attached on class "city".
 It takes the input , convert it to uppercase and calls function ShowStores.
 
