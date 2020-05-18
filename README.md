@@ -1,12 +1,12 @@
 # Safe Med
 `````
-URL - https://pradhuman1.github.io/pradhuman1-SGR-2/pages/homePage
+ [SafeMed](https://pradhuman1.github.io/pradhuman1-SGR-2/pages/homePage)
 `````
 During Covid 19 pandemic it is very dangerous to buy medicines.
 This website books slot for you at medical shops and ensures that a small amount of customers visit at a particular time.
 # Steps To Run
-`git clone https://github.com/pradhuman1/pradhuman1-SGR-2`
-`run homePage.html`
+* `git clone https://github.com/pradhuman1/pradhuman1-SGR-2`
+* `run homePage.html`
 
 # Code Structure
 ## Api Used
