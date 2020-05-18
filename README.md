@@ -1,7 +1,6 @@
 # Safe Med
-`````
- [SafeMed](https://pradhuman1.github.io/pradhuman1-SGR-2/pages/homePage)
-`````
+  [SafeMed](https://pradhuman1.github.io/pradhuman1-SGR-2/pages/homePage)
+
 During Covid 19 pandemic it is very dangerous to buy medicines.
 This website books slot for you at medical shops and ensures that a small amount of customers visit at a particular time.
 # Steps To Run
