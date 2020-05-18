@@ -32,11 +32,11 @@ This Function generates a unique customer id and Confirmes the booking.
 
  ### Event Listeners : 
 
-* click 
+* `click` :
 Attached on body , captures events by bubbling macanism.
 Also validates correct time slot.
 
-* keyup
+* `keyup` :
 Attached on class "city".
 It takes the input , convert it to uppercase and calls function ShowStores.
 
