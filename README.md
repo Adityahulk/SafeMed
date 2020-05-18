@@ -7,7 +7,7 @@ This website books slot for you at medical shops and ensures that a small amount
 `run homePage.html`
 
 # Code Structure
-## Api USed
+## Api Used
 `https://my-json-server.typicode.com/pradhuman1/SafeMedData/data`
 method GET
 native fetch api used
@@ -24,7 +24,7 @@ This function does the following
 -Matches city name in the fetched data, if available then it prints all cards,if not available then it shows "Service not available".
 -Validates api data.
 
- * removeOldData : 
+ * `removeOldData` : 
 This function removes all the previous cards on the website.
 
 * `ShowBooking` : input parameter -> time
